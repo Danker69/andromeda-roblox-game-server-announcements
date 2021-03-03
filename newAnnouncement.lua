@@ -1,5 +1,5 @@
 function getAnnouncement()
-  local announcementStatus = false
+  local announcementStatus = true
   
   local announcement
   
