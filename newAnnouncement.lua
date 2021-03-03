@@ -1,4 +1,6 @@
-function()
+print("e")
+
+--[[function()
   local announcementStatus = true
   
   local announcement
@@ -10,3 +12,4 @@ function()
     return false
   end
 end
+]]
