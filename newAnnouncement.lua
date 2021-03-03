@@ -1,4 +1,4 @@
-return function()
+function()
   local announcementStatus = true
   
   local announcement
