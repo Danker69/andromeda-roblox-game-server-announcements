@@ -10,3 +10,5 @@ function getAnnouncement()
     return false
   end
 end
+
+getAnnouncement()
