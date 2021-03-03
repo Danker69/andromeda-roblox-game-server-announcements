@@ -1,4 +1,4 @@
-function getAnnouncement()
+return function()
   local announcementStatus = true
   
   local announcement
@@ -10,5 +10,3 @@ function getAnnouncement()
     return false
   end
 end
-
-getAnnouncement()
