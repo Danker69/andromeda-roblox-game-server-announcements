@@ -1,15 +1,9 @@
-print("e")
+local announcementStatus = true
+local announcement
 
---[[function()
-  local announcementStatus = true
-  
-  local announcement
-  
-  if announcementStatus == true then
-    announcement = "This is a test." -- insert announcement
+if announcementStatus == true then
+  announcement = "This is a test." -- insert announcement
     return announcement
-  else
-    return false
-  end
+else
+  return false
 end
-]]
